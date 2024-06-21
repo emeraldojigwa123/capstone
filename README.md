@@ -16,7 +16,7 @@ This page talks more in lists about what I can offer in terms of web designing a
  This is a page that contains my contact informations as well as icons linked to their respective social media handles. it also has my location, Phone number and e-mail address.
 
   *footer*
-  This has my name, the Cohort I'm in under HerTechTrail.
+  This has my name, the Cohort I'm in under HerTechTrail. And the link takes you to hertechtrail website
 
   *header*
   contains the site name and logo. Because I am named after a precious stone, I decided it would be fit to use an emerald stone as my logo :upside_down_face:
