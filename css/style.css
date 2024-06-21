@@ -457,7 +457,8 @@ body {
     margin-bottom: 0;
   }
   .main-navigation .navbar-default {
-    background-color: transparent;
+    background-color:black;
+    opacity: 0.9;
     border: none;
   }
   .main-navigation .navbar-default .navbar-nav > li > a {
